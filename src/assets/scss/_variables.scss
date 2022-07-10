@@ -1,9 +1,9 @@
 @use "sass:math";
 @use "sass:color";
 
-$color-base: hsl(0, 0%, 13%);
-$color-primary: hsl(220, 100%, 68%);
-$color-secondary: hsl(31, 92%, 62%);
+$color-base: hsl(216, 7%, 86%);
+$color-primary: #01c4aa;
+$color-secondary: hsl(220, 9%, 55%);
 
 $color-white: hsl(0, 0%, 100%);
 $color-gray: color.adjust($color-base, $lightness: 40%);
